@@ -1,4 +1,4 @@
-FINANCING WITH LIQUIDITY
+FINANCING WITH LIQUIDITY 
 
 ORSO aims to provide investors with liquidity funding on Uniswap V3 and PancakeSwap V2 V3, he was deployed on the Arbitrum network. Arbitrum is a Layer 2 blockchain designed to scale Ethereum for secure, low fee and fast transactions.
 
